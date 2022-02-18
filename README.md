@@ -7,8 +7,8 @@ This is our first midterm quiz of MultiMedia Authoring class.
 # What we need to do
 We need to complete the quiz requirement for creating a repository and branch for a project on Github, and submit it to FOL before 8pm.
 
-# Chau Lin Lam License
-Chau Lin Lam License
+# Chau Lin Lam (Cathy) License
+Chau Lin Lam (Cathy) License
 
 Copyright (c) 2022 Chau Lin Lam
 
