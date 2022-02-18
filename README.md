@@ -1,5 +1,5 @@
 # Lam-ChauLin-Midterm
-Chau Lin Lam (Cathy) and her partner Akiba to argue Japan is the best place for traveling or not.
+Chau Lin Lam (Cathy) and her partner Akiba to argue where is the best place for traveling.
 
 # About the project
 This is our first midterm quiz of MultiMedia Authoring class.
@@ -31,4 +31,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Contact
 Chau Lin Lam
 c_lam151841@fanshaweonline.ca
-Project Link: https://github.com/cathylam27/Lam-ChauLin-Midterm-Quiz.git
+Project Link: https://github.com/cathylam27/Lam-Chau-Lin-Midterm-Project.git
